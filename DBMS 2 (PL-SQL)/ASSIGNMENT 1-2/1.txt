@@ -1,5 +1,0 @@
-
-BEGIN
-DBMS_output.put_line('Hello World');
-end;
-/
