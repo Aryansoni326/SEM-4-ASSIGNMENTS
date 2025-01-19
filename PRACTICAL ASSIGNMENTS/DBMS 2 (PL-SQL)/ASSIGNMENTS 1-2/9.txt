@@ -1,6 +1,0 @@
-declare
-a integer := &a;
-digit number := 0;
-begin
-while a IS NOT NULL then
-digit := digit + 1;
